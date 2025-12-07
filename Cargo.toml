@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "myvault-cli",
+    "myvault-core",
+    "myvault-desktop/src-tauri",
+    "myvault-mobile", "myvault-mobile",
+]
+resolver = "2"
