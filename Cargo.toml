@@ -3,6 +3,6 @@ members = [
     "myvault-cli",
     "myvault-core",
     "myvault-desktop/src-tauri",
-    "myvault-mobile", "myvault-mobile",
+    "myvault-mobile", "myvault-mobile", "myvault-web/backend",
 ]
 resolver = "2"
